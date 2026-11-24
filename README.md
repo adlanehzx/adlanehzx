@@ -5,7 +5,7 @@ Je conçois et livre des produits de bout en bout : smart contracts, application
 
 *Software engineer in Paris, final year of a Master’s in Blockchain Engineering. I build and ship products end to end.*
 
-[Portfolio](https://hamzaouiadlane.vercel.app) · [English version](https://hamzaouiadlane.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/adlane-hamzaoui/) · [contact.adlanehz@gmail.com](mailto:contact.adlanehz@gmail.com)
+[Portfolio](https://hamzaoui-adlane.vercel.app) · [English version](https://hamzaoui-adlane.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/adlane-hamzaoui/) · [contact.adlanehz@gmail.com](mailto:contact.adlanehz@gmail.com)
 
 ---
 
