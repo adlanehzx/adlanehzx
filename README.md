@@ -1,32 +1,30 @@
 ### Adlane Hamzaoui
 
-Ingénieur logiciel à Paris, en dernière année de Mastère Ingénierie de la Blockchain à l’ESGI.
-Je conçois et livre des produits de bout en bout : smart contracts, applications web et mobiles, outils IA, et le pilotage qui va avec.
+Software engineer in Paris, in the final year of a Master's in Blockchain Engineering at ESGI.
+I design and ship products end to end: smart contracts, web and mobile apps, AI tooling, and the project management that goes with them.
 
-*Software engineer in Paris, final year of a Master’s in Blockchain Engineering. I build and ship products end to end.*
-
-[Portfolio](https://hamzaoui-adlane.vercel.app) · [English version](https://hamzaoui-adlane.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/adlane-hamzaoui/) · [contact.adlanehz@gmail.com](mailto:contact.adlanehz@gmail.com)
+[Portfolio](https://hamzaoui-adlane.vercel.app/en) · [Version française](https://hamzaoui-adlane.vercel.app) · [LinkedIn](https://www.linkedin.com/in/adlane-hamzaoui/) · [contact.adlanehz@gmail.com](mailto:contact.adlanehz@gmail.com)
 
 ---
 
-#### Projets à la une
+#### Featured projects
 
-| Projet | En bref | Stack |
+| Project | In short | Stack |
 | --- | --- | --- |
-| [**Bastion**](https://github.com/adlanehzx/bastion) | Coffre DeFi non custodial sur BNB Chain : ordres DCA, limites, stop-loss et take-profit exécutés par un keeper qui ne peut jamais retirer les fonds | Solidity · Foundry · Rust · Chainlink |
-| [**RugRadar**](https://github.com/adlanehzx/rugradar) | Scanner de risque des nouveaux tokens PancakeSwap : honeypot simulé en un seul `eth_call`, taxes cachées, score sur 100 et alertes Telegram | Rust · alloy · Solidity · SQLite |
-| [**Nexus**](https://github.com/adlanehzx/Nexus) | Assistant IA multi-appareils qui exécute de vraies actions, avec registre d’outils, permissions et traçabilité | TypeScript · Expo · pgvector |
-| [**Specto**](https://github.com/adlanehzx/specto) | Tests E2E Playwright et API générés à partir de descriptions en langage naturel, intégrés à la CI | Playwright · BullMQ · CI/CD |
-| [**HankoTrack**](https://github.com/adlanehzx/Projet-Annuel) | Projet annuel ESGI : plateforme communautaire de suivi d’anime en temps réel, déployée en continu | Nuxt · Express · Prisma · Socket.io |
-| [**Corso Motors**](https://corso-motors.com) | Projet client : site et infrastructure interne d’un constructeur automobile, menés du cadrage à la production | Docker · Traefik · SSO · VPS |
+| [**Bastion**](https://github.com/adlanehzx/bastion) | Non-custodial DeFi vault on BNB Chain: DCA, limit, stop-loss and take-profit orders executed by a keeper that can never withdraw funds | Solidity · Foundry · Rust · Chainlink |
+| [**RugRadar**](https://github.com/adlanehzx/rugradar) | Risk scanner for new PancakeSwap tokens: honeypot simulated in a single `eth_call`, hidden taxes, 0–100 score and Telegram alerts | Rust · alloy · Solidity · SQLite |
+| [**Nexus**](https://github.com/adlanehzx/Nexus) | Multi-device AI assistant that carries out real actions, with a tool registry, permissions and full traceability | TypeScript · Expo · pgvector |
+| [**Specto**](https://github.com/adlanehzx/specto) | Playwright E2E and API tests generated from plain-language descriptions, integrated into CI | Playwright · BullMQ · CI/CD |
+| [**HankoTrack**](https://github.com/adlanehzx/Projet-Annuel) | ESGI final-year team project: real-time community platform for tracking anime, continuously deployed | Nuxt · Express · Prisma · Socket.io |
+| [**Corso Motors**](https://corso-motors.com) | Client project: website and internal infrastructure for a car maker, taken from scoping to production | Docker · Traefik · SSO · VPS |
 
-Également : [SORAVYN](https://github.com/adlanehzx/soravyn) (agence marketing pilotée par agents IA), [Hackathon Michelin](https://github.com/adlanehzx/Hackathon-michelin), [Comp Bike](https://github.com/ilyas-ya/comp_bike) (hackathon Kiro) et [Kanboard](https://github.com/ilyes-i-ben/kanboard) (projet annuel ESGI).
+Also: [SORAVYN](https://github.com/adlanehzx/soravyn) (marketing agency run by AI agents), [Hackathon Michelin](https://github.com/adlanehzx/Hackathon-michelin), [Comp Bike](https://github.com/ilyas-ya/comp_bike) (Kiro hackathon) and [Kanboard](https://github.com/ilyes-i-ben/kanboard) (ESGI final-year project).
 
 #### Stack
 
-- **Langages** : TypeScript, Rust, Solidity, Python, SQL
-- **Web & mobile** : React, Next.js, Nuxt, React Native, Node.js, Express
-- **Blockchain** : Foundry, ethers.js, alloy, EVM / BNB Chain, Chainlink
-- **IA** : LLM, RAG, agents, MCP, tool calling
-- **Infra & qualité** : Docker, GitHub Actions, Traefik, PostgreSQL, Playwright, Vitest
-- **Pilotage** : Scrum, Jira, cadrage, suivi de livraison
+- **Languages**: TypeScript, Rust, Solidity, Python, SQL
+- **Web & mobile**: React, Next.js, Nuxt, React Native, Node.js, Express
+- **Blockchain**: Foundry, ethers.js, alloy, EVM / BNB Chain, Chainlink
+- **AI**: LLM, RAG, agents, MCP, tool calling
+- **Infra & quality**: Docker, GitHub Actions, Traefik, PostgreSQL, Playwright, Vitest
+- **Delivery**: Scrum, Jira, scoping, delivery tracking
